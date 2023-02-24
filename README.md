@@ -6,3 +6,5 @@ The hardest part of this plan is the first 2 weeks, when you may feel that is us
 covered Topics like time complexity and space complexity and done few examples 
 Learnt REPL (read eval print Loop ) in python 
 -how to use directories and completed harry Chapter 1 practise set
+### Day2 on 23/02/23:
+covered dynamic arrays and basic operations in python and ..
