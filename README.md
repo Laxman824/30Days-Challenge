@@ -10,3 +10,4 @@ Learnt REPL (read eval print Loop ) in python
 covered dynamic arrays and basic operations in python and ..
 ### Day3 on 24/2/23 :
 covered problems on arrays and completed chapter 2 practice set
+### Day4 on 25/2/23
