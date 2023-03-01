@@ -14,3 +14,5 @@ covered problems on arrays and completed chapter 2 practice set
 done few problems and solved them .
 ### Day5 on 26/2/23 
 completed string manipulations ,harry practice set 3 and 3 problems
+### Day6 on 27/2/23
+Done string problems
