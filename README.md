@@ -16,3 +16,5 @@ done few problems and solved them .
 completed string manipulations ,harry practice set 3 and 3 problems
 ### Day6 on 27/2/23
 Done string problems
+### Day7 on 28/2/23
+done tuple related problems and completed harry sheet 4
