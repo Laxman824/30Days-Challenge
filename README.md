@@ -22,3 +22,5 @@ done tuple related problems and completed harry sheet 4
 harry sheet 4 done with chapter 5 theory
 ### Day9 
 chapter 5 dictonary and problems regarding tuples,sheet
+### Day 10
+Chapter 5 practice sheet 
